@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️
+- les statuts HTTP ✔️
+- les endpoints ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
@@ -34,24 +34,14 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### RFC 9110
 
-- lien
-- description
+- https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes
+- Normes officielles de la sémantique HTTP
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
-
-Résolution :
+### Point de blocage ❌
 
 ## 📽️ J'en fais la démonstration
 
